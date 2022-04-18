@@ -1,0 +1,5 @@
+fastapi==0.75.1
+uvicorn==0.17.6
+scikit-learn==1.0.2
+pandas==1.4.2
+requests==2.27.1 # for testing the API (main_request.py)
