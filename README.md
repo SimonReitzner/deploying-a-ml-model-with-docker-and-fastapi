@@ -5,12 +5,11 @@
 <br />
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 1. [About the Project](#about-the-project)
 2. [Build with](#build-with)
 3. [Usage](#usage)
 4. [Contact](#contact)
-
 <br />
 
 
