@@ -24,7 +24,7 @@ This project demonstrates how to deploy a machine learning model with docker and
 The project was built with **Python 3.9.12** and **Docker version 20.10.14**.
 The python requirements are listed in **requirements.txt**.
 
-The main packages are the following:
+The main requirements are the following:
 
 * [python](https://www.python.org/)
 * [docker](https://www.docker.com/)
