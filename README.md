@@ -58,6 +58,7 @@ The API is deployed to port `8080` and can be accessed by [http://localhost:8080
 5. Request prediction
    ```sh
    python main_request.py
+   # {'predictions': [0, 2], 'probabilities': [[1, 0, 0], [0, 0, 0]]}
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
